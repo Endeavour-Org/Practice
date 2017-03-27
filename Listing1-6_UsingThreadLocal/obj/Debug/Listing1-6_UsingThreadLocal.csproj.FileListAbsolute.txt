@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-6_UsingThreadLocal\bin\Debug\Listing1-6_UsingThreadLocal.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-6_UsingThreadLocal\bin\Debug\Listing1-6_UsingThreadLocal.exe
+C:\Users\User\Source\Repos\Practice\Listing1-6_UsingThreadLocal\bin\Debug\Listing1-6_UsingThreadLocal.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-6_UsingThreadLocal\obj\Debug\Listing1-6_UsingThreadLocal.exe
+C:\Users\User\Source\Repos\Practice\Listing1-6_UsingThreadLocal\obj\Debug\Listing1-6_UsingThreadLocal.pdb

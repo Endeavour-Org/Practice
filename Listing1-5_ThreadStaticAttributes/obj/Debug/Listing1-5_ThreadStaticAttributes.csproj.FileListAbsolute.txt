@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-5_ThreadStaticAttributes\bin\Debug\Listing1-5_ThreadStaticAttributes.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-5_ThreadStaticAttributes\bin\Debug\Listing1-5_ThreadStaticAttributes.exe
+C:\Users\User\Source\Repos\Practice\Listing1-5_ThreadStaticAttributes\bin\Debug\Listing1-5_ThreadStaticAttributes.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-5_ThreadStaticAttributes\obj\Debug\Listing1-5_ThreadStaticAttributes.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-5_ThreadStaticAttributes\obj\Debug\Listing1-5_ThreadStaticAttributes.exe
+C:\Users\User\Source\Repos\Practice\Listing1-5_ThreadStaticAttributes\obj\Debug\Listing1-5_ThreadStaticAttributes.pdb
