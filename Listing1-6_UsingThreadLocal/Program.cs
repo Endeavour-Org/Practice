@@ -11,7 +11,7 @@ namespace Listing1_6_UsingThreadLocal
                     return Thread.CurrentThread.ManagedThreadId;
                 });
 
-        public static void Main()
+        public static void Main() 
         {
             new Thread(() =>
             {
