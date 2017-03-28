@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-17_UsingParallelBreak\bin\Debug\Listing1-17_UsingParallelBreak.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-17_UsingParallelBreak\bin\Debug\Listing1-17_UsingParallelBreak.exe
+C:\Users\User\Source\Repos\Practice\Listing1-17_UsingParallelBreak\bin\Debug\Listing1-17_UsingParallelBreak.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-17_UsingParallelBreak\obj\Debug\Listing1-17_UsingParallelBreak.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-17_UsingParallelBreak\obj\Debug\Listing1-17_UsingParallelBreak.exe
+C:\Users\User\Source\Repos\Practice\Listing1-17_UsingParallelBreak\obj\Debug\Listing1-17_UsingParallelBreak.pdb
