@@ -18,23 +18,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter2", "Chapter2", "{F5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter3", "Chapter3", "{03E82E7C-1D62-4014-B039-D6F58518D315}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-1_CreatingThreads", "Listing1-1_CreatingThreads\Listing1-1_CreatingThreads.csproj", "{C9342151-FD83-4E17-A8AC-52A6F0E62EE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-01_CreatingThreads", "Listing1-1_CreatingThreads\Listing1-01_CreatingThreads.csproj", "{C9342151-FD83-4E17-A8AC-52A6F0E62EE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-2_BackgroundThreads", "Listing1-2_BackgroundThreads\Listing1-2_BackgroundThreads.csproj", "{4C520DD8-5437-4AAA-AD6D-61ADD4DC486B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-02_BackgroundThreads", "Listing1-2_BackgroundThreads\Listing1-02_BackgroundThreads.csproj", "{4C520DD8-5437-4AAA-AD6D-61ADD4DC486B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-3_ParameterizedThreadStarts", "Listing1-3_ParameterizedThreadStarts\Listing1-3_ParameterizedThreadStarts.csproj", "{3FAD0731-6C99-4924-B56B-381BE7924BE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-03_ParameterizedThreadStarts", "Listing1-3_ParameterizedThreadStarts\Listing1-03_ParameterizedThreadStarts.csproj", "{3FAD0731-6C99-4924-B56B-381BE7924BE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-4_StoppingThreads", "Listing1-4_StoppingThreads\Listing1-4_StoppingThreads.csproj", "{736A2B66-BBEE-41E3-B9DB-C640CDA550D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-04_StoppingThreads", "Listing1-4_StoppingThreads\Listing1-04_StoppingThreads.csproj", "{736A2B66-BBEE-41E3-B9DB-C640CDA550D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-5_ThreadStaticAttributes", "Listing1-5_ThreadStaticAttributes\Listing1-5_ThreadStaticAttributes.csproj", "{B9D0DDF2-2DFB-4B4D-A8FF-6C695F7FEE7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-05_ThreadStaticAttributes", "Listing1-5_ThreadStaticAttributes\Listing1-05_ThreadStaticAttributes.csproj", "{B9D0DDF2-2DFB-4B4D-A8FF-6C695F7FEE7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-6_UsingThreadLocal", "Listing1-6_UsingThreadLocal\Listing1-6_UsingThreadLocal.csproj", "{A35F12A9-CFB5-47D3-B0F2-D3C3CDA4DC72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-06_UsingThreadLocal", "Listing1-6_UsingThreadLocal\Listing1-06_UsingThreadLocal.csproj", "{A35F12A9-CFB5-47D3-B0F2-D3C3CDA4DC72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-7_QueuingWorkToThreadPools", "Listing1-7_UsingThreadPools\Listing1-7_QueuingWorkToThreadPools.csproj", "{E26DFA07-4F23-4FB9-B295-CB30DE7CA222}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-07_QueuingWorkToThreadPools", "Listing1-7_UsingThreadPools\Listing1-07_QueuingWorkToThreadPools.csproj", "{E26DFA07-4F23-4FB9-B295-CB30DE7CA222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-8_StartingTasks", "Listing1-8_StartingTasks\Listing1-8_StartingTasks.csproj", "{4649C8BE-67BC-4FC2-BD5A-829655B2A924}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-08_StartingTasks", "Listing1-8_StartingTasks\Listing1-08_StartingTasks.csproj", "{4649C8BE-67BC-4FC2-BD5A-829655B2A924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-9_UsingTasks", "Listing1-9_UsingTasks\Listing1-9_UsingTasks.csproj", "{B329CCB2-E6D8-4703-9ACB-DA7852DA6B7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-09_UsingTasks", "Listing1-9_UsingTasks\Listing1-09_UsingTasks.csproj", "{B329CCB2-E6D8-4703-9ACB-DA7852DA6B7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-10_AddingContinuations", "Listing1-10_AddingContinuations\Listing1-10_AddingContinuations.csproj", "{8798DF95-17E4-4188-B1F8-91E22D21BED0}"
 EndProject
@@ -45,6 +45,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-13_UsingTaskFactories", "Listing1-13_UsingTaskFactories\Listing1-13_UsingTaskFactories.csproj", "{A5A5A17B-BB4E-4116-A06F-FD6654A862C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-14_UsingTaskWaitAll", "Listing1-14_UsingTaskWaitAll\Listing1-14_UsingTaskWaitAll.csproj", "{AA8D654F-6A40-49A3-BAD1-B482952FDDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-15_UsingTaskWaitAny", "Listing1-15_UsingTaskWaitAny\Listing1-15_UsingTaskWaitAny.csproj", "{2075E778-3752-4641-923A-C9868EC73FE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -112,6 +114,10 @@ Global
 		{AA8D654F-6A40-49A3-BAD1-B482952FDDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA8D654F-6A40-49A3-BAD1-B482952FDDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA8D654F-6A40-49A3-BAD1-B482952FDDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2075E778-3752-4641-923A-C9868EC73FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2075E778-3752-4641-923A-C9868EC73FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2075E778-3752-4641-923A-C9868EC73FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2075E778-3752-4641-923A-C9868EC73FE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,5 +141,6 @@ Global
 		{688A5FAF-6597-4FFD-8F1B-C0D9C22CB304} = {A635730A-AF9F-4F0C-A43E-9D5F7914B89A}
 		{A5A5A17B-BB4E-4116-A06F-FD6654A862C1} = {A635730A-AF9F-4F0C-A43E-9D5F7914B89A}
 		{AA8D654F-6A40-49A3-BAD1-B482952FDDFA} = {A635730A-AF9F-4F0C-A43E-9D5F7914B89A}
+		{2075E778-3752-4641-923A-C9868EC73FE2} = {A635730A-AF9F-4F0C-A43E-9D5F7914B89A}
 	EndGlobalSection
 EndGlobal
