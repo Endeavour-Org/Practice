@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-14_UsingTaskWaitAll\bin\Debug\Listing1-14_UsingTaskWaitAll.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-14_UsingTaskWaitAll\bin\Debug\Listing1-14_UsingTaskWaitAll.exe
+C:\Users\User\Source\Repos\Practice\Listing1-14_UsingTaskWaitAll\bin\Debug\Listing1-14_UsingTaskWaitAll.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-14_UsingTaskWaitAll\obj\Debug\Listing1-14_UsingTaskWaitAll.exe
+C:\Users\User\Source\Repos\Practice\Listing1-14_UsingTaskWaitAll\obj\Debug\Listing1-14_UsingTaskWaitAll.pdb

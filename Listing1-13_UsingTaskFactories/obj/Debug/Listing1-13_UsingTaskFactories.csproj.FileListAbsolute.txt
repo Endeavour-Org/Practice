@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-13_UsingTaskFactories\bin\Debug\Listing1-13_UsingTaskFactories.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-13_UsingTaskFactories\bin\Debug\Listing1-13_UsingTaskFactories.exe
+C:\Users\User\Source\Repos\Practice\Listing1-13_UsingTaskFactories\bin\Debug\Listing1-13_UsingTaskFactories.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-13_UsingTaskFactories\obj\Debug\Listing1-13_UsingTaskFactories.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-13_UsingTaskFactories\obj\Debug\Listing1-13_UsingTaskFactories.exe
+C:\Users\User\Source\Repos\Practice\Listing1-13_UsingTaskFactories\obj\Debug\Listing1-13_UsingTaskFactories.pdb

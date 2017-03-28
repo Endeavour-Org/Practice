@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-8_StartingTasks\bin\Debug\Listing1-8_StartingTasks.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-8_StartingTasks\bin\Debug\Listing1-8_StartingTasks.exe
+C:\Users\User\Source\Repos\Practice\Listing1-8_StartingTasks\bin\Debug\Listing1-8_StartingTasks.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-8_StartingTasks\obj\Debug\Listing1-8_StartingTasks.exe
+C:\Users\User\Source\Repos\Practice\Listing1-8_StartingTasks\obj\Debug\Listing1-8_StartingTasks.pdb

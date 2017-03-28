@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-12_AttachingChildToParentTasks\bin\Debug\Listing1-12_AttachingChildToParentTasks.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-12_AttachingChildToParentTasks\bin\Debug\Listing1-12_AttachingChildToParentTasks.exe
+C:\Users\User\Source\Repos\Practice\Listing1-12_AttachingChildToParentTasks\bin\Debug\Listing1-12_AttachingChildToParentTasks.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-12_AttachingChildToParentTasks\obj\Debug\Listing1-12_AttachingChildToParentTasks.exe
+C:\Users\User\Source\Repos\Practice\Listing1-12_AttachingChildToParentTasks\obj\Debug\Listing1-12_AttachingChildToParentTasks.pdb
