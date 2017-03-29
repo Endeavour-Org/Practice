@@ -86,6 +86,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-29_UsingGetConsumi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-30_UsingAConcurrentBag", "Listing1-30_UsingAConcurrentBag\Listing1-30_UsingAConcurrentBag.csproj", "{CFBFB7A9-B1B3-4B12-9427-C6870B377511}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-31_EnumeratingAConcurrentBag", "Listing1-31_UsingAConcurrentBag\Listing1-31_EnumeratingAConcurrentBag.csproj", "{0518F6E6-7D96-4935-A203-F85E92C503F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-32_UsingConcurrentStacks", "Listing1-32_UsingConcurrentStacks\Listing1-32_UsingConcurrentStacks.csproj", "{07BB0463-6F03-4231-99E6-CDC5DCADBB71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-33_UsingConcurrentQueues", "Listing1-33_UsingConcurrentQueues\Listing1-33_UsingConcurrentQueues.csproj", "{7DD92F89-45BD-478B-A8C9-9622B150F1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-34_UsingConcurrentDictionary", "Listing1-34_UsingConcurrentDictionary\Listing1-34_UsingConcurrentDictionary.csproj", "{52347055-FA98-4584-B04C-A4FD9C5B7AA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,6 +224,22 @@ Global
 		{CFBFB7A9-B1B3-4B12-9427-C6870B377511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFBFB7A9-B1B3-4B12-9427-C6870B377511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFBFB7A9-B1B3-4B12-9427-C6870B377511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0518F6E6-7D96-4935-A203-F85E92C503F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0518F6E6-7D96-4935-A203-F85E92C503F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0518F6E6-7D96-4935-A203-F85E92C503F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0518F6E6-7D96-4935-A203-F85E92C503F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BB0463-6F03-4231-99E6-CDC5DCADBB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BB0463-6F03-4231-99E6-CDC5DCADBB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BB0463-6F03-4231-99E6-CDC5DCADBB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BB0463-6F03-4231-99E6-CDC5DCADBB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD92F89-45BD-478B-A8C9-9622B150F1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD92F89-45BD-478B-A8C9-9622B150F1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD92F89-45BD-478B-A8C9-9622B150F1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD92F89-45BD-478B-A8C9-9622B150F1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52347055-FA98-4584-B04C-A4FD9C5B7AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52347055-FA98-4584-B04C-A4FD9C5B7AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52347055-FA98-4584-B04C-A4FD9C5B7AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52347055-FA98-4584-B04C-A4FD9C5B7AA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -259,5 +283,9 @@ Global
 		{E757D776-4F16-4A8B-8DE1-5F58E3065938} = {6BA1D02F-6686-4937-85C2-CD1AF55EA25F}
 		{2DCB40D5-4799-446F-9EB5-FD61743E3B6C} = {6BA1D02F-6686-4937-85C2-CD1AF55EA25F}
 		{CFBFB7A9-B1B3-4B12-9427-C6870B377511} = {6BA1D02F-6686-4937-85C2-CD1AF55EA25F}
+		{0518F6E6-7D96-4935-A203-F85E92C503F5} = {6BA1D02F-6686-4937-85C2-CD1AF55EA25F}
+		{07BB0463-6F03-4231-99E6-CDC5DCADBB71} = {6BA1D02F-6686-4937-85C2-CD1AF55EA25F}
+		{7DD92F89-45BD-478B-A8C9-9622B150F1B8} = {6BA1D02F-6686-4937-85C2-CD1AF55EA25F}
+		{52347055-FA98-4584-B04C-A4FD9C5B7AA8} = {A635730A-AF9F-4F0C-A43E-9D5F7914B89A}
 	EndGlobalSection
 EndGlobal

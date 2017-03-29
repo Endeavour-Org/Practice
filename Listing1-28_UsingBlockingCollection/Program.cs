@@ -1,15 +1,34 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Collections.Concurrent;
 using System.Threading.Tasks;
 
 namespace Listing1_28_UsingBlockingCollection
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            BlockingCollection<string> col = new BlockingCollection<string>();
+            Task read = Task.Run(() =>
+            {
+                while (true)
+                {
+                    Console.WriteLine(col.Take());
+                }
+            });
+
+            Task write = Task.Run(() =>
+            {
+                while (true)
+                {
+                    string s = Console.ReadLine();
+                    if (string.IsNullOrWhiteSpace(s)) break;
+                    col.Add(s);
+                }
+            });
+
+            Console.ReadLine();
+            write.Wait();
         }
     }
 }

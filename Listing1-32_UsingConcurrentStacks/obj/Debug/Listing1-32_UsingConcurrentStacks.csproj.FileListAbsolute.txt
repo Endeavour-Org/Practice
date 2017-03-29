@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-32_UsingConcurrentStacks\bin\Debug\Listing1-32_UsingConcurrentStacks.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-32_UsingConcurrentStacks\bin\Debug\Listing1-32_UsingConcurrentStacks.exe
+C:\Users\User\Source\Repos\Practice\Listing1-32_UsingConcurrentStacks\bin\Debug\Listing1-32_UsingConcurrentStacks.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-32_UsingConcurrentStacks\obj\Debug\Listing1-32_UsingConcurrentStacks.exe
+C:\Users\User\Source\Repos\Practice\Listing1-32_UsingConcurrentStacks\obj\Debug\Listing1-32_UsingConcurrentStacks.pdb

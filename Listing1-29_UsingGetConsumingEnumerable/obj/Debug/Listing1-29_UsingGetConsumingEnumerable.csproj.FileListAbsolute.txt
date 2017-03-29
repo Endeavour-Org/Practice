@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-29_UsingGetConsumingEnumerable\bin\Debug\Listing1-29_UsingGetConsumingEnumerable.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-29_UsingGetConsumingEnumerable\bin\Debug\Listing1-29_UsingGetConsumingEnumerable.exe
+C:\Users\User\Source\Repos\Practice\Listing1-29_UsingGetConsumingEnumerable\bin\Debug\Listing1-29_UsingGetConsumingEnumerable.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-29_UsingGetConsumingEnumerable\obj\Debug\Listing1-29_UsingGetConsumingEnumerable.exe
+C:\Users\User\Source\Repos\Practice\Listing1-29_UsingGetConsumingEnumerable\obj\Debug\Listing1-29_UsingGetConsumingEnumerable.pdb
