@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-20_UsingConfigureAwait\bin\Debug\Listing1-20_UsingConfigureAwait.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-20_UsingConfigureAwait\obj\Debug\Listing1-20_UsingConfigureAwait.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-20_UsingConfigureAwait\obj\Debug\MainWindow.g.cs
+C:\Users\User\Source\Repos\Practice\Listing1-20_UsingConfigureAwait\obj\Debug\App.g.cs
+C:\Users\User\Source\Repos\Practice\Listing1-20_UsingConfigureAwait\obj\Debug\Listing1-20_UsingConfigureAwait_MarkupCompile.cache
+C:\Users\User\Source\Repos\Practice\Listing1-20_UsingConfigureAwait\obj\Debug\Listing1-20_UsingConfigureAwait_MarkupCompile.lref

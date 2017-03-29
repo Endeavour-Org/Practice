@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\bin\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\MainWindow.g.cs
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\App.g.cs
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread_MarkupCompile.cache
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread_MarkupCompile.lref
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\bin\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.exe
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\bin\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\MainWindow.baml
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.g.resources
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1_21_ContinuingOnThreadPoolInsteadOfUIThread.Properties.Resources.resources
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.exe
+C:\Users\User\Source\Repos\Practice\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread\obj\Debug\Listing1-21_ContinuingOnThreadPoolInsteadOfUIThread.pdb
