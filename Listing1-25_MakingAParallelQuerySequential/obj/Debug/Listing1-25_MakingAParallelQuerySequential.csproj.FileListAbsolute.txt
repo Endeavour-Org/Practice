@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-25_MakingAParallelQuerySequential\bin\Debug\Listing1-25_MakingAParallelQuerySequential.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-25_MakingAParallelQuerySequential\bin\Debug\Listing1-25_MakingAParallelQuerySequential.exe
+C:\Users\User\Source\Repos\Practice\Listing1-25_MakingAParallelQuerySequential\bin\Debug\Listing1-25_MakingAParallelQuerySequential.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-25_MakingAParallelQuerySequential\obj\Debug\Listing1-25_MakingAParallelQuerySequential.exe
+C:\Users\User\Source\Repos\Practice\Listing1-25_MakingAParallelQuerySequential\obj\Debug\Listing1-25_MakingAParallelQuerySequential.pdb

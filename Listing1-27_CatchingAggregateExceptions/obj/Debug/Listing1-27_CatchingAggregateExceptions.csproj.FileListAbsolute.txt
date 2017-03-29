@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing1-27_CatchingAggregateExceptions\bin\Debug\Listing1-27_CatchingAggregateExceptions.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-27_CatchingAggregateExceptions\bin\Debug\Listing1-27_CatchingAggregateExceptions.exe
+C:\Users\User\Source\Repos\Practice\Listing1-27_CatchingAggregateExceptions\bin\Debug\Listing1-27_CatchingAggregateExceptions.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-27_CatchingAggregateExceptions\obj\Debug\Listing1-27_CatchingAggregateExceptions.exe
+C:\Users\User\Source\Repos\Practice\Listing1-27_CatchingAggregateExceptions\obj\Debug\Listing1-27_CatchingAggregateExceptions.pdb
