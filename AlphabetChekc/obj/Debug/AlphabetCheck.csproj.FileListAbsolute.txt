@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\AlphabetChekc\bin\Debug\AlphabetChekc.exe.config
+C:\Users\User\Source\Repos\Practice\AlphabetChekc\bin\Debug\AlphabetChekc.exe
+C:\Users\User\Source\Repos\Practice\AlphabetChekc\bin\Debug\AlphabetChekc.pdb
+C:\Users\User\Source\Repos\Practice\AlphabetChekc\obj\Debug\AlphabetCheck.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\AlphabetChekc\obj\Debug\AlphabetChekc.exe
+C:\Users\User\Source\Repos\Practice\AlphabetChekc\obj\Debug\AlphabetChekc.pdb

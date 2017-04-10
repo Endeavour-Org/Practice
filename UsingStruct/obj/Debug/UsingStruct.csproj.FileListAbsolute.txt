@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\UsingStruct\bin\Debug\UsingStruct.exe.config
+C:\Users\User\Source\Repos\Practice\UsingStruct\bin\Debug\UsingStruct.exe
+C:\Users\User\Source\Repos\Practice\UsingStruct\bin\Debug\UsingStruct.pdb
+C:\Users\User\Source\Repos\Practice\UsingStruct\obj\Debug\UsingStruct.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\UsingStruct\obj\Debug\UsingStruct.exe
+C:\Users\User\Source\Repos\Practice\UsingStruct\obj\Debug\UsingStruct.pdb

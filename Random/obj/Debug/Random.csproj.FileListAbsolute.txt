@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Random\bin\Debug\Random.exe.config
+C:\Users\User\Source\Repos\Practice\Random\bin\Debug\Random.exe
+C:\Users\User\Source\Repos\Practice\Random\bin\Debug\Random.pdb
+C:\Users\User\Source\Repos\Practice\Random\obj\Debug\Random.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Random\obj\Debug\Random.exe
+C:\Users\User\Source\Repos\Practice\Random\obj\Debug\Random.pdb
