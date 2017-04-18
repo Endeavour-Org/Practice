@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlphabetChekc
+namespace AlphabetCheck
 {
     public static class Program
     {
