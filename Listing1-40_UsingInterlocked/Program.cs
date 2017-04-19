@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Listing1_40_UsingInterlocked
@@ -10,6 +8,27 @@ namespace Listing1_40_UsingInterlocked
     {
         static void Main(string[] args)
         {
+            //Interlocked guarantees that the increment and decrement operations are
+            //executed atomically.
+            //No other thread will see the intermediate results.
+
+            int n = 0;
+
+            var up = Task.Run(() =>
+            {
+                for (int i = 0; i < 1000000; i++)
+                {
+                    Interlocked.Increment(ref n);
+                }
+            });
+
+            for (int i = 0; i < 1000000; i++)
+            Interlocked.Decrement(ref n);
+
+            up.Wait();
+
+            Console.WriteLine(n);
+            Console.ReadLine();
         }
     }
 }
