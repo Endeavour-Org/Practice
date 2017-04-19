@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\ProgrammingWithMosh-EventsAndDelegates\bin\Debug\ProgrammingWithMosh-EventsAndDelegates.exe.config
+C:\Users\User\Source\Repos\Practice\ProgrammingWithMosh-EventsAndDelegates\bin\Debug\ProgrammingWithMosh-EventsAndDelegates.exe
+C:\Users\User\Source\Repos\Practice\ProgrammingWithMosh-EventsAndDelegates\bin\Debug\ProgrammingWithMosh-EventsAndDelegates.pdb
+C:\Users\User\Source\Repos\Practice\ProgrammingWithMosh-EventsAndDelegates\obj\Debug\ProgrammingWithMosh-EventsAndDelegates.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\ProgrammingWithMosh-EventsAndDelegates\obj\Debug\ProgrammingWithMosh-EventsAndDelegates.exe
+C:\Users\User\Source\Repos\Practice\ProgrammingWithMosh-EventsAndDelegates\obj\Debug\ProgrammingWithMosh-EventsAndDelegates.pdb

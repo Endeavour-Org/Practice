@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-43_ThrowingOperationCanceledException\bin\Debug\Listing1-43_ThrowingOperationCanceledException.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-43_ThrowingOperationCanceledException\bin\Debug\Listing1-43_ThrowingOperationCanceledException.exe
+C:\Users\User\Source\Repos\Practice\Listing1-43_ThrowingOperationCanceledException\bin\Debug\Listing1-43_ThrowingOperationCanceledException.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-43_ThrowingOperationCanceledException\obj\Debug\Listing1-43_ThrowingOperationCanceledException.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-43_ThrowingOperationCanceledException\obj\Debug\Listing1-43_ThrowingOperationCanceledException.exe
+C:\Users\User\Source\Repos\Practice\Listing1-43_ThrowingOperationCanceledException\obj\Debug\Listing1-43_ThrowingOperationCanceledException.pdb
