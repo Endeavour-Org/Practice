@@ -3,3 +3,4 @@ C:\Users\User\Source\Repos\Practice\Listing1-16_UsingParallelForAndForeach\bin\D
 C:\Users\User\Source\Repos\Practice\Listing1-16_UsingParallelForAndForeach\bin\Debug\Listing1-16_UsingParallelForAndForeach.pdb
 C:\Users\User\Source\Repos\Practice\Listing1-16_UsingParallelForAndForeach\obj\Debug\Listing1-16_UsingParallelForAndForeach.exe
 C:\Users\User\Source\Repos\Practice\Listing1-16_UsingParallelForAndForeach\obj\Debug\Listing1-16_UsingParallelForAndForeach.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-16_UsingParallelForAndForeach\obj\Debug\Listing1-16_UsingParallelForAndForeach.csprojResolveAssemblyReference.cache
