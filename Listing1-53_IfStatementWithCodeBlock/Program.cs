@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Listing1_53_IfStatementWithCodeBlock
 {
@@ -10,6 +6,13 @@ namespace Listing1_53_IfStatementWithCodeBlock
     {
         static void Main(string[] args)
         {
+            bool b = true;
+
+            if (b)
+            {
+                Console.WriteLine("Both these lines");
+                Console.WriteLine("Will be executed");
+            }
         }
     }
 }

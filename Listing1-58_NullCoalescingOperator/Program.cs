@@ -10,6 +10,8 @@ namespace Listing1_58_NullCoalescingOperator
     {
         static void Main(string[] args)
         {
+            int? x = null;
+            int y = x ?? -1;
         }
     }
 }

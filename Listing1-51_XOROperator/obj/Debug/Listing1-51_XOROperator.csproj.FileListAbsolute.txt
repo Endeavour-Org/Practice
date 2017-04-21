@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-51_XOROperator\bin\Debug\Listing1-51_XOROperator.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-51_XOROperator\bin\Debug\Listing1-51_XOROperator.exe
+C:\Users\User\Source\Repos\Practice\Listing1-51_XOROperator\bin\Debug\Listing1-51_XOROperator.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-51_XOROperator\obj\Debug\Listing1-51_XOROperator.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-51_XOROperator\obj\Debug\Listing1-51_XOROperator.exe
+C:\Users\User\Source\Repos\Practice\Listing1-51_XOROperator\obj\Debug\Listing1-51_XOROperator.pdb

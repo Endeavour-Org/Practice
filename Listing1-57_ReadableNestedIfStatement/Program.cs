@@ -10,6 +10,17 @@ namespace Listing1_57_ReadableNestedIfStatement
     {
         static void Main(string[] args)
         {
+            //if (x)
+            //{
+            //    if (y)
+            //    {
+            //        F();
+            //    }
+            //    else
+            //    {
+            //        G();
+            //    }
+            //}
         }
     }
 }

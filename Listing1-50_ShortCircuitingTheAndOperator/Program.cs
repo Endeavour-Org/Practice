@@ -10,6 +10,12 @@ namespace Listing1_50_ShortCircuitingTheAndOperator
     {
         static void Main(string[] args)
         {
+            Process("Test");
+        }
+
+        public static void Process(string input)
+        {
+            bool result = (input != null) && (input.StartsWith("v"));
         }
     }
 }

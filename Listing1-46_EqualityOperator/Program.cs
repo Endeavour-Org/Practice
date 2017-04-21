@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Listing1_46_EqualityOperator
 {
@@ -10,7 +6,12 @@ namespace Listing1_46_EqualityOperator
     {
         static void Main(string[] args)
         {
+            int x = 42;
+            int y = 1;
+            int z = 42;
 
+            Console.WriteLine(x == y);
+            Console.WriteLine(x == z);
         }
     }
 }

@@ -10,6 +10,16 @@ namespace Listing1_55_ElseStatement
     {
         static void Main(string[] args)
         {
+            bool b = false;
+
+            if (b)
+            {
+                Console.WriteLine("True"); ;
+            }
+            else
+            {
+                Console.WriteLine("False"); ;
+            }
         }
     }
 }

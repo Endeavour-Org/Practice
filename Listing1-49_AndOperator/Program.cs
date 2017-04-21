@@ -10,6 +10,8 @@ namespace Listing1_49_AndOperator
     {
         static void Main(string[] args)
         {
+            int value = 42;
+            bool result = (0 < value) && (value < 100);
         }
     }
 }

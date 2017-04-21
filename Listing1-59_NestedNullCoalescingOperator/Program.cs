@@ -10,6 +10,13 @@ namespace Listing1_59_NestedNullCoalescingOperator
     {
         static void Main(string[] args)
         {
+            int? x = null;
+            int? z = null;
+            int y = x ??
+                    z ??
+                    -1;
+
+            //Can do the same with an if statement but this is shorter and more readable
         }
     }
 }

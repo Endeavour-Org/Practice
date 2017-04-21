@@ -8,8 +8,16 @@ namespace Listing1_48_ShortCircuitingTheOrOperator
 {
     class Program
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
+            bool x = true;
+            bool result = x || GetY();
+        }
+
+        private bool GetY()
+        {
+            Console.WriteLine("This method doesn't get called.");
+            return true;
         }
     }
 }
