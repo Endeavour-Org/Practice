@@ -13,7 +13,7 @@ namespace ProgrammingWithMosh_EventsAndDelegates
             var messageService = new MessageService(); //another subscriber
 
             videoEncoder.VideoEncoded += mailService.OnVideoEncoded; //No parenthesis because it's a reference/pointer to the method
-            videoEncoder.VideoEncoded += messageService.OnVideoEncoded;
+            videoEncoder.VideoEncoded += messageService.OnVideoEncoded; //This is multicasting
 
             videoEncoder.Encode(video);
 

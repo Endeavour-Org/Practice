@@ -10,6 +10,7 @@ namespace Listing1_46_EqualityOperator
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

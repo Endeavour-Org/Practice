@@ -204,6 +204,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-74_GoToStatementWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWithMosh-EventsAndDelegates", "ProgrammingWithMosh-EventsAndDelegates\ProgrammingWithMosh-EventsAndDelegates.csproj", "{84050CE3-B128-49A6-A326-187759DE2FF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDelegate", "BasicDelegate\BasicDelegate.csproj", "{FAC50057-DC14-4C8C-9802-C385C2D47CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherBasicDelegate", "AnotherBasicDelegate\AnotherBasicDelegate.csproj", "{BDDE6F06-4309-4054-B68C-76F65F92087D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -558,6 +562,14 @@ Global
 		{84050CE3-B128-49A6-A326-187759DE2FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84050CE3-B128-49A6-A326-187759DE2FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84050CE3-B128-49A6-A326-187759DE2FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC50057-DC14-4C8C-9802-C385C2D47CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC50057-DC14-4C8C-9802-C385C2D47CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC50057-DC14-4C8C-9802-C385C2D47CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC50057-DC14-4C8C-9802-C385C2D47CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDE6F06-4309-4054-B68C-76F65F92087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDE6F06-4309-4054-B68C-76F65F92087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDE6F06-4309-4054-B68C-76F65F92087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDE6F06-4309-4054-B68C-76F65F92087D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -658,5 +670,7 @@ Global
 		{DFD920EB-B120-4166-A6E5-DDDFE0A05C86} = {701A7928-9604-4AC0-8FB1-B9B4E0A0FC78}
 		{FAAE2B7B-986F-473A-A239-371F501198F6} = {701A7928-9604-4AC0-8FB1-B9B4E0A0FC78}
 		{84050CE3-B128-49A6-A326-187759DE2FF9} = {27792212-6A61-4815-9A90-6402382BD7CC}
+		{FAC50057-DC14-4C8C-9802-C385C2D47CC4} = {27792212-6A61-4815-9A90-6402382BD7CC}
+		{BDDE6F06-4309-4054-B68C-76F65F92087D} = {27792212-6A61-4815-9A90-6402382BD7CC}
 	EndGlobalSection
 EndGlobal

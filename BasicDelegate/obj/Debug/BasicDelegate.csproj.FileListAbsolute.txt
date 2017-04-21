@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\BasicDelegate\bin\Debug\BasicDelegate.exe.config
+C:\Users\User\Source\Repos\Practice\BasicDelegate\bin\Debug\BasicDelegate.exe
+C:\Users\User\Source\Repos\Practice\BasicDelegate\bin\Debug\BasicDelegate.pdb
+C:\Users\User\Source\Repos\Practice\BasicDelegate\obj\Debug\BasicDelegate.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\BasicDelegate\obj\Debug\BasicDelegate.exe
+C:\Users\User\Source\Repos\Practice\BasicDelegate\obj\Debug\BasicDelegate.pdb
