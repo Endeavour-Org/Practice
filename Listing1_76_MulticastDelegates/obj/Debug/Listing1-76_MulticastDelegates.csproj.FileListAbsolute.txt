@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1_76_MulticastDelegates\bin\Debug\Listing1_76_MulticastDelegates.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1_76_MulticastDelegates\bin\Debug\Listing1_76_MulticastDelegates.exe
+C:\Users\User\Source\Repos\Practice\Listing1_76_MulticastDelegates\bin\Debug\Listing1_76_MulticastDelegates.pdb
+C:\Users\User\Source\Repos\Practice\Listing1_76_MulticastDelegates\obj\Debug\Listing1-76_MulticastDelegates.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1_76_MulticastDelegates\obj\Debug\Listing1_76_MulticastDelegates.exe
+C:\Users\User\Source\Repos\Practice\Listing1_76_MulticastDelegates\obj\Debug\Listing1_76_MulticastDelegates.pdb

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Listing1_75_UsingADelegate
 {
@@ -10,7 +6,25 @@ namespace Listing1_75_UsingADelegate
     {
         static void Main(string[] args)
         {
-            //A delegate is a variable that holds a reference to a function (method).
+            // A delegate is a type that defines a method signature.
+            // You can instantiate a delegate and let itpoint to another method.
+            // You can invoke a method through a delegate.
+
+            UseDelegate();
+        }
+
+        public delegate int Calculate(int x, int y);
+
+        public static int Add(int x, int y) { return x + y; }
+        public static int Multiply(int x, int y) { return x * y; }
+
+        public static void UseDelegate()
+        {
+            Calculate calc = Add;
+            Console.WriteLine(calc(3,4));  //Displays 7
+
+            calc = Multiply;
+            Console.WriteLine(calc(3,4)); //Displays 12
         }
     }
 }

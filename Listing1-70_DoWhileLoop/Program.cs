@@ -10,6 +10,11 @@ namespace Listing1_70_DoWhileLoop
     {
         static void Main(string[] args)
         {
+            do
+            {
+                Console.WriteLine("Executed once!");
+            }
+            while (false);
         }
     }
 }

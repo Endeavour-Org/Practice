@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing1-74_GoToStatementWithALabel\bin\Debug\Listing1-74_GoToStatementWithALabel.exe.config
+C:\Users\User\Source\Repos\Practice\Listing1-74_GoToStatementWithALabel\bin\Debug\Listing1-74_GoToStatementWithALabel.exe
+C:\Users\User\Source\Repos\Practice\Listing1-74_GoToStatementWithALabel\bin\Debug\Listing1-74_GoToStatementWithALabel.pdb
+C:\Users\User\Source\Repos\Practice\Listing1-74_GoToStatementWithALabel\obj\Debug\Listing1-74_GoToStatementWithALabel.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing1-74_GoToStatementWithALabel\obj\Debug\Listing1-74_GoToStatementWithALabel.exe
+C:\Users\User\Source\Repos\Practice\Listing1-74_GoToStatementWithALabel\obj\Debug\Listing1-74_GoToStatementWithALabel.pdb

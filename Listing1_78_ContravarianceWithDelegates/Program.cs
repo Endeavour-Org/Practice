@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.IO;
 
 namespace Listing1_78_ContravarianceWithDelegates
 {
@@ -10,6 +6,12 @@ namespace Listing1_78_ContravarianceWithDelegates
     {
         static void Main(string[] args)
         {
+            ContravarianceDel del = DoSomething;
         }
+
+        static void DoSomething(TextWriter tw) { }
+
+        public delegate void ContravarianceDel(StreamWriter tw);
+        
     }
 }

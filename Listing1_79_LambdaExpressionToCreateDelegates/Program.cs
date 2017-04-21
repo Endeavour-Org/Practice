@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Listing1_79_LambdaExpressionToCreateDelegates
 {
@@ -10,6 +6,13 @@ namespace Listing1_79_LambdaExpressionToCreateDelegates
     {
         static void Main(string[] args)
         {
+            Calculate calc = (x, y) => x + y;
+            Console.WriteLine(calc(3, 4)); // Displays 7
+
+            calc = (x, y) => x * y;
+            Console.WriteLine(calc(3, 4)); // Displays 12
         }
+
+        public delegate int Calculate(int x, int y);
     }
 }

@@ -10,6 +10,14 @@ namespace Listing1_66_ForLoopWithACustomIncrement
     {
         static void Main(string[] args)
         {
+            int[] values = { 1, 2, 3, 4, 5, 6 };
+            for (int index = 0; index < values.Length; index += 2)
+            {
+                Console.WriteLine(values[index]);
+            }
+
+            //Displays
+            //135
         }
     }
 }
