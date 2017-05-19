@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\ExamineRunningProcesses\bin\Debug\ExamineRunningProcesses.exe.config
+C:\Users\User\Source\Repos\Practice\ExamineRunningProcesses\bin\Debug\ExamineRunningProcesses.exe
+C:\Users\User\Source\Repos\Practice\ExamineRunningProcesses\bin\Debug\ExamineRunningProcesses.pdb
+C:\Users\User\Source\Repos\Practice\ExamineRunningProcesses\obj\Debug\ExamineRunningProcesses.exe
+C:\Users\User\Source\Repos\Practice\ExamineRunningProcesses\obj\Debug\ExamineRunningProcesses.pdb

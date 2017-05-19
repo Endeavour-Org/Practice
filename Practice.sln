@@ -164,7 +164,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing1-63_GoToSwitchState
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateExample", "MulticastDelegateExample\MulticastDelegateExample.csproj", "{4A55401D-C0D3-4D7D-99F6-40F56FB75C7B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Obejective_2-1", "Obejective_2-1", "{A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective_2-1", "Objective_2-1", "{A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-01_UsingTheFlagAttributeForAnEnum", "Listing2-01_UsingTheFlagAttributeForAnEnum\Listing2-01_UsingTheFlagAttributeForAnEnum.csproj", "{CD0488F4-1895-4807-8678-173E02A97A99}"
 EndProject
@@ -235,6 +235,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-14_UsingAWhereClauseOnAClassDefinition", "Listing2-14_UsingAWhereClauseOnAClassDefinition\Listing2-14_UsingAWhereClauseOnAClassDefinition.csproj", "{FF20AD2E-C39F-42F1-BFAF-E2214C903368}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-15_UsingDefault(T)WithAGenericTypeParameter", "Listing2-15_UsingDefault(T)WithAGenericTypeParameter\Listing2-15_UsingDefault(T)WithAGenericTypeParameter.csproj", "{8A9F27E1-1A7A-45FA-9918-7FC69F3D79D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-16_CreatingAnExtensionMethod", "Listing2-16_CreatingAnExtensionMethod\Listing2-16_CreatingAnExtensionMethod.csproj", "{098C5FBB-1EF7-43A0-A707-EE2981A07803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-17_OverridingAVirtualMethod", "Listing2-17_OverridingAVirtualMethod\Listing2-17_OverridingAVirtualMethod.csproj", "{78313893-A039-475D-A361-906D62A1369A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamineRunningProcesses", "ExamineRunningProcesses\ExamineRunningProcesses.csproj", "{CAC1D231-6641-42B3-AF75-E4418A629276}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -654,6 +660,18 @@ Global
 		{8A9F27E1-1A7A-45FA-9918-7FC69F3D79D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A9F27E1-1A7A-45FA-9918-7FC69F3D79D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A9F27E1-1A7A-45FA-9918-7FC69F3D79D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098C5FBB-1EF7-43A0-A707-EE2981A07803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098C5FBB-1EF7-43A0-A707-EE2981A07803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098C5FBB-1EF7-43A0-A707-EE2981A07803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098C5FBB-1EF7-43A0-A707-EE2981A07803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78313893-A039-475D-A361-906D62A1369A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78313893-A039-475D-A361-906D62A1369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78313893-A039-475D-A361-906D62A1369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78313893-A039-475D-A361-906D62A1369A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC1D231-6641-42B3-AF75-E4418A629276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC1D231-6641-42B3-AF75-E4418A629276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC1D231-6641-42B3-AF75-E4418A629276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC1D231-6641-42B3-AF75-E4418A629276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -770,5 +788,8 @@ Global
 		{64E3E581-619D-4D41-B5FA-00EC32550ADF} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
 		{FF20AD2E-C39F-42F1-BFAF-E2214C903368} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
 		{8A9F27E1-1A7A-45FA-9918-7FC69F3D79D0} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{098C5FBB-1EF7-43A0-A707-EE2981A07803} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{78313893-A039-475D-A361-906D62A1369A} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{CAC1D231-6641-42B3-AF75-E4418A629276} = {27792212-6A61-4815-9A90-6402382BD7CC}
 	EndGlobalSection
 EndGlobal
