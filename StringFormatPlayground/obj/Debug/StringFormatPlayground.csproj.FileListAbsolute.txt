@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\StringFormatPlayground\bin\Debug\StringFormatPlayground.exe.config
+C:\Users\User\Source\Repos\Practice\StringFormatPlayground\bin\Debug\StringFormatPlayground.exe
+C:\Users\User\Source\Repos\Practice\StringFormatPlayground\bin\Debug\StringFormatPlayground.pdb
+C:\Users\User\Source\Repos\Practice\StringFormatPlayground\obj\Debug\StringFormatPlayground.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\StringFormatPlayground\obj\Debug\StringFormatPlayground.exe
+C:\Users\User\Source\Repos\Practice\StringFormatPlayground\obj\Debug\StringFormatPlayground.pdb

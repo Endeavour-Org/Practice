@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing3-17_UseASymmetricEncryptionAlgorithm\bin\Debug\Listing3-17_UseASymmetricEncryptionAlgorithm.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-17_UseASymmetricEncryptionAlgorithm\bin\Debug\Listing3-17_UseASymmetricEncryptionAlgorithm.exe
+C:\Users\User\Source\Repos\Practice\Listing3-17_UseASymmetricEncryptionAlgorithm\bin\Debug\Listing3-17_UseASymmetricEncryptionAlgorithm.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-17_UseASymmetricEncryptionAlgorithm\obj\Debug\Listing3-17_UseASymmetricEncryptionAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing3-17_UseASymmetricEncryptionAlgorithm\obj\Debug\Listing3-17_UseASymmetricEncryptionAlgorithm.exe
+C:\Users\User\Source\Repos\Practice\Listing3-17_UseASymmetricEncryptionAlgorithm\obj\Debug\Listing3-17_UseASymmetricEncryptionAlgorithm.pdb
