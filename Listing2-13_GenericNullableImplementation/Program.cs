@@ -20,7 +20,7 @@ namespace Listing2_13_GenericNullableImplementation
             this.value = value;
         }
 
-        public bool HasValue { get; { return this.hasValue; } }
+        public bool HasValue { get { return this.hasValue; } }
 
         public T Value
         {
