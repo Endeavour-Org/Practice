@@ -292,6 +292,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-34_UsingTheProtect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-35_UsingTheInternalAccessModifier", "Listing2-35_UsingTheInternalAccessModifier\Listing2-35_UsingTheInternalAccessModifier.csproj", "{EC964279-2AC4-4237-9B0A-56B9067602D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-36_EncapsulatingAFieldWithCustomMethods", "Listing2-36_EncapsulatingAFieldWithCustomMethods\Listing2-36_EncapsulatingAFieldWithCustomMethods.csproj", "{D342736A-A299-4B5E-911D-EE51EE7410E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-37_CreatingAProperty", "Listing2-37_CreatingAProperty\Listing2-37_CreatingAProperty.csproj", "{77664621-B8F5-41F5-A36D-5A36CA019E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-38_TheIObjectContextAdapter", "Listing2-38_TheIObjectContextAdapter\Listing2-38_TheIObjectContextAdapter.csproj", "{1228866B-60E6-46E0-8423-0718AB220C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-39_ImplementingAnInterfaceExplicitly", "Listing2-39_ImplementingAnInterfaceExplicitly\Listing2-39_ImplementingAnInterfaceExplicitly.csproj", "{21649C60-5FD8-4C1F-BE6B-2F250830766F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing2-40_ImplementingAnInterfaceExplicity", "Listing2-40_ImplementingAnInterfaceExplicity\Listing2-40_ImplementingAnInterfaceExplicity.csproj", "{462E7A04-7F97-4947-BCC1-A25A2942E45C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -802,6 +812,26 @@ Global
 		{EC964279-2AC4-4237-9B0A-56B9067602D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC964279-2AC4-4237-9B0A-56B9067602D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC964279-2AC4-4237-9B0A-56B9067602D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D342736A-A299-4B5E-911D-EE51EE7410E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D342736A-A299-4B5E-911D-EE51EE7410E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D342736A-A299-4B5E-911D-EE51EE7410E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D342736A-A299-4B5E-911D-EE51EE7410E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77664621-B8F5-41F5-A36D-5A36CA019E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77664621-B8F5-41F5-A36D-5A36CA019E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77664621-B8F5-41F5-A36D-5A36CA019E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77664621-B8F5-41F5-A36D-5A36CA019E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1228866B-60E6-46E0-8423-0718AB220C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1228866B-60E6-46E0-8423-0718AB220C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1228866B-60E6-46E0-8423-0718AB220C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1228866B-60E6-46E0-8423-0718AB220C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21649C60-5FD8-4C1F-BE6B-2F250830766F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21649C60-5FD8-4C1F-BE6B-2F250830766F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21649C60-5FD8-4C1F-BE6B-2F250830766F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21649C60-5FD8-4C1F-BE6B-2F250830766F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462E7A04-7F97-4947-BCC1-A25A2942E45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462E7A04-7F97-4947-BCC1-A25A2942E45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462E7A04-7F97-4947-BCC1-A25A2942E45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462E7A04-7F97-4947-BCC1-A25A2942E45C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -946,5 +976,10 @@ Global
 		{A404F174-71F8-4ED6-8915-000E7FC9C735} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
 		{FC70B68F-C5C4-4153-95E4-C8D5B2FF9272} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
 		{EC964279-2AC4-4237-9B0A-56B9067602D8} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{D342736A-A299-4B5E-911D-EE51EE7410E6} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{77664621-B8F5-41F5-A36D-5A36CA019E3C} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{1228866B-60E6-46E0-8423-0718AB220C4F} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{21649C60-5FD8-4C1F-BE6B-2F250830766F} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
+		{462E7A04-7F97-4947-BCC1-A25A2942E45C} = {A7177AF5-AFAA-4C14-9CA4-C6A14476E0A0}
 	EndGlobalSection
 EndGlobal
