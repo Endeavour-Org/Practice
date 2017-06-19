@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-55_SyntacticSugarOfTheForeachStatement\bin\Debug\Listing2-55_SyntacticSugarOfTheForeachStatement.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-55_SyntacticSugarOfTheForeachStatement\bin\Debug\Listing2-55_SyntacticSugarOfTheForeachStatement.exe
+C:\Users\User\Source\Repos\Practice\Listing2-55_SyntacticSugarOfTheForeachStatement\bin\Debug\Listing2-55_SyntacticSugarOfTheForeachStatement.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-55_SyntacticSugarOfTheForeachStatement\obj\Debug\Listing2-55_SyntacticSugarOfTheForeachStatement.exe
+C:\Users\User\Source\Repos\Practice\Listing2-55_SyntacticSugarOfTheForeachStatement\obj\Debug\Listing2-55_SyntacticSugarOfTheForeachStatement.pdb
