@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\TypeOfKeyword\bin\Debug\TypeOfKeyword.exe.config
+C:\Users\User\Source\Repos\Practice\TypeOfKeyword\bin\Debug\TypeOfKeyword.exe
+C:\Users\User\Source\Repos\Practice\TypeOfKeyword\bin\Debug\TypeOfKeyword.pdb
+C:\Users\User\Source\Repos\Practice\TypeOfKeyword\obj\Debug\TypeOfKeyword.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\TypeOfKeyword\obj\Debug\TypeOfKeyword.exe
+C:\Users\User\Source\Repos\Practice\TypeOfKeyword\obj\Debug\TypeOfKeyword.pdb
