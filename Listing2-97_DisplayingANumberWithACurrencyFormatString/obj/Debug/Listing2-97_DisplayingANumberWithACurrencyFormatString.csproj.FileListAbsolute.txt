@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-97_DisplayingANumberWithACurrencyFormatString\bin\Debug\Listing2-97_DisplayingANumberWithACurrencyFormatString.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-97_DisplayingANumberWithACurrencyFormatString\bin\Debug\Listing2-97_DisplayingANumberWithACurrencyFormatString.exe
+C:\Users\User\Source\Repos\Practice\Listing2-97_DisplayingANumberWithACurrencyFormatString\bin\Debug\Listing2-97_DisplayingANumberWithACurrencyFormatString.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-97_DisplayingANumberWithACurrencyFormatString\obj\Debug\Listing2-97_DisplayingANumberWithACurrencyFormatString.exe
+C:\Users\User\Source\Repos\Practice\Listing2-97_DisplayingANumberWithACurrencyFormatString\obj\Debug\Listing2-97_DisplayingANumberWithACurrencyFormatString.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-94_ChangingAStringWithARegularExpression\bin\Debug\Listing2-94_ChangingAStringWithARegularExpression.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-94_ChangingAStringWithARegularExpression\bin\Debug\Listing2-94_ChangingAStringWithARegularExpression.exe
+C:\Users\User\Source\Repos\Practice\Listing2-94_ChangingAStringWithARegularExpression\bin\Debug\Listing2-94_ChangingAStringWithARegularExpression.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-94_ChangingAStringWithARegularExpression\obj\Debug\Listing2-94_ChangingAStringWithARegularExpression.exe
+C:\Users\User\Source\Repos\Practice\Listing2-94_ChangingAStringWithARegularExpression\obj\Debug\Listing2-94_ChangingAStringWithARegularExpression.pdb

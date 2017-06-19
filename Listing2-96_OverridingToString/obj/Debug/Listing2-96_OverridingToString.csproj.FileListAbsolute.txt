@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-96_OverridingToString\bin\Debug\Listing2-96_OverridingToString.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-96_OverridingToString\bin\Debug\Listing2-96_OverridingToString.exe
+C:\Users\User\Source\Repos\Practice\Listing2-96_OverridingToString\bin\Debug\Listing2-96_OverridingToString.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-96_OverridingToString\obj\Debug\Listing2-96_OverridingToString.exe
+C:\Users\User\Source\Repos\Practice\Listing2-96_OverridingToString\obj\Debug\Listing2-96_OverridingToString.pdb

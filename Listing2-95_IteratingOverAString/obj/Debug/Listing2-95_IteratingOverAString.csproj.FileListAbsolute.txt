@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-95_IteratingOverAString\bin\Debug\Listing2-95_IteratingOverAString.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-95_IteratingOverAString\bin\Debug\Listing2-95_IteratingOverAString.exe
+C:\Users\User\Source\Repos\Practice\Listing2-95_IteratingOverAString\bin\Debug\Listing2-95_IteratingOverAString.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-95_IteratingOverAString\obj\Debug\Listing2-95_IteratingOverAString.exe
+C:\Users\User\Source\Repos\Practice\Listing2-95_IteratingOverAString\obj\Debug\Listing2-95_IteratingOverAString.pdb

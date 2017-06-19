@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-91_UsingIndexOfAndLastIndexOf\bin\Debug\Listing2-91_UsingIndexOfAndLastIndexOf.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-91_UsingIndexOfAndLastIndexOf\bin\Debug\Listing2-91_UsingIndexOfAndLastIndexOf.exe
+C:\Users\User\Source\Repos\Practice\Listing2-91_UsingIndexOfAndLastIndexOf\bin\Debug\Listing2-91_UsingIndexOfAndLastIndexOf.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-91_UsingIndexOfAndLastIndexOf\obj\Debug\Listing2-91_UsingIndexOfAndLastIndexOf.exe
+C:\Users\User\Source\Repos\Practice\Listing2-91_UsingIndexOfAndLastIndexOf\obj\Debug\Listing2-91_UsingIndexOfAndLastIndexOf.pdb
