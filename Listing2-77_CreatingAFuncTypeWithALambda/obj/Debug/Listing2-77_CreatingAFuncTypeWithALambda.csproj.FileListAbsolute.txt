@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-77_CreatingAFuncTypeWithALambda\bin\Debug\Listing2-77_CreatingAFuncTypeWithALambda.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-77_CreatingAFuncTypeWithALambda\bin\Debug\Listing2-77_CreatingAFuncTypeWithALambda.exe
+C:\Users\User\Source\Repos\Practice\Listing2-77_CreatingAFuncTypeWithALambda\bin\Debug\Listing2-77_CreatingAFuncTypeWithALambda.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-77_CreatingAFuncTypeWithALambda\obj\Debug\Listing2-77_CreatingAFuncTypeWithALambda.exe
+C:\Users\User\Source\Repos\Practice\Listing2-77_CreatingAFuncTypeWithALambda\obj\Debug\Listing2-77_CreatingAFuncTypeWithALambda.pdb

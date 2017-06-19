@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-78_CreatingHelloWorldWithAnExpressionTree\bin\Debug\Listing2-78_CreatingHelloWorldWithAnExpressionTree.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-78_CreatingHelloWorldWithAnExpressionTree\bin\Debug\Listing2-78_CreatingHelloWorldWithAnExpressionTree.exe
+C:\Users\User\Source\Repos\Practice\Listing2-78_CreatingHelloWorldWithAnExpressionTree\bin\Debug\Listing2-78_CreatingHelloWorldWithAnExpressionTree.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-78_CreatingHelloWorldWithAnExpressionTree\obj\Debug\Listing2-78_CreatingHelloWorldWithAnExpressionTree.exe
+C:\Users\User\Source\Repos\Practice\Listing2-78_CreatingHelloWorldWithAnExpressionTree\obj\Debug\Listing2-78_CreatingHelloWorldWithAnExpressionTree.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-74_GeneratingHelloWorldWithTheCodeDOM\bin\Debug\Listing2-74_GeneratingHelloWorldWithTheCodeDOM.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-74_GeneratingHelloWorldWithTheCodeDOM\bin\Debug\Listing2-74_GeneratingHelloWorldWithTheCodeDOM.exe
+C:\Users\User\Source\Repos\Practice\Listing2-74_GeneratingHelloWorldWithTheCodeDOM\bin\Debug\Listing2-74_GeneratingHelloWorldWithTheCodeDOM.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-74_GeneratingHelloWorldWithTheCodeDOM\obj\Debug\Listing2-74_GeneratingHelloWorldWithTheCodeDOM.exe
+C:\Users\User\Source\Repos\Practice\Listing2-74_GeneratingHelloWorldWithTheCodeDOM\obj\Debug\Listing2-74_GeneratingHelloWorldWithTheCodeDOM.pdb

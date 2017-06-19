@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-72_GettingTheValueOfAFieldThroughReflection\bin\Debug\Listing2-72_GettingTheValueOfAFieldThroughReflection.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-72_GettingTheValueOfAFieldThroughReflection\bin\Debug\Listing2-72_GettingTheValueOfAFieldThroughReflection.exe
+C:\Users\User\Source\Repos\Practice\Listing2-72_GettingTheValueOfAFieldThroughReflection\bin\Debug\Listing2-72_GettingTheValueOfAFieldThroughReflection.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-72_GettingTheValueOfAFieldThroughReflection\obj\Debug\Listing2-72_GettingTheValueOfAFieldThroughReflection.exe
+C:\Users\User\Source\Repos\Practice\Listing2-72_GettingTheValueOfAFieldThroughReflection\obj\Debug\Listing2-72_GettingTheValueOfAFieldThroughReflection.pdb

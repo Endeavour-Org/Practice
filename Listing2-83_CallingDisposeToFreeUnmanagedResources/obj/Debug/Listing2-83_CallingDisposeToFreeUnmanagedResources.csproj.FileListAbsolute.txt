@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-83_CallingDisposeToFreeUnmanagedResources\bin\Debug\Listing2-83_CallingDisposeToFreeUnmanagedResources.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-83_CallingDisposeToFreeUnmanagedResources\bin\Debug\Listing2-83_CallingDisposeToFreeUnmanagedResources.exe
+C:\Users\User\Source\Repos\Practice\Listing2-83_CallingDisposeToFreeUnmanagedResources\bin\Debug\Listing2-83_CallingDisposeToFreeUnmanagedResources.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-83_CallingDisposeToFreeUnmanagedResources\obj\Debug\Listing2-83_CallingDisposeToFreeUnmanagedResources.exe
+C:\Users\User\Source\Repos\Practice\Listing2-83_CallingDisposeToFreeUnmanagedResources\obj\Debug\Listing2-83_CallingDisposeToFreeUnmanagedResources.pdb

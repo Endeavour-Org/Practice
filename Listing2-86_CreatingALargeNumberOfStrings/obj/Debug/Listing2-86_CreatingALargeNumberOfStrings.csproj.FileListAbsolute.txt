@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing2-86_CreatingALargeNumberOfStrings\bin\Debug\Listing2-86_CreatingALargeNumberOfStrings.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-86_CreatingALargeNumberOfStrings\bin\Debug\Listing2-86_CreatingALargeNumberOfStrings.exe
+C:\Users\User\Source\Repos\Practice\Listing2-86_CreatingALargeNumberOfStrings\bin\Debug\Listing2-86_CreatingALargeNumberOfStrings.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-86_CreatingALargeNumberOfStrings\obj\Debug\Listing2-86_CreatingALargeNumberOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing2-86_CreatingALargeNumberOfStrings\obj\Debug\Listing2-86_CreatingALargeNumberOfStrings.exe
+C:\Users\User\Source\Repos\Practice\Listing2-86_CreatingALargeNumberOfStrings\obj\Debug\Listing2-86_CreatingALargeNumberOfStrings.pdb

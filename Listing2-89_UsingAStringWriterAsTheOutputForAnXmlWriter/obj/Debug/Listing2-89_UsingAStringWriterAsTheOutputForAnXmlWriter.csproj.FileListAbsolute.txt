@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter\bin\Debug\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter.exe.config
+C:\Users\User\Source\Repos\Practice\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter\bin\Debug\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter.exe
+C:\Users\User\Source\Repos\Practice\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter\bin\Debug\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter.pdb
+C:\Users\User\Source\Repos\Practice\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter\obj\Debug\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter.exe
+C:\Users\User\Source\Repos\Practice\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter\obj\Debug\Listing2-89_UsingAStringWriterAsTheOutputForAnXmlWriter.pdb
