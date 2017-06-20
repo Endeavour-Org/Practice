@@ -3,3 +3,6 @@ C:\Users\User\Source\Repos\Practice\Listing2-98_DisplayingADateTimeWithDifferent
 C:\Users\User\Source\Repos\Practice\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings\bin\Debug\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings.pdb
 C:\Users\User\Source\Repos\Practice\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings\obj\Debug\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings.exe
 C:\Users\User\Source\Repos\Practice\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings\obj\Debug\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings.pdb
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings\bin\Debug\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings.exe.config
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings\obj\Debug\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings\obj\Debug\Listing2-98_DisplayingADateTimeWithDifferentFormatStrings.pdb
