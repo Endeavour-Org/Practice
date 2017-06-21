@@ -1,0 +1,6 @@
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-33_ASimpleConsoleApplication\bin\Debug\Listing3-33_ASimpleConsoleApplication.exe.config
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-33_ASimpleConsoleApplication\bin\Debug\Listing3-33_ASimpleConsoleApplication.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-33_ASimpleConsoleApplication\bin\Debug\Listing3-33_ASimpleConsoleApplication.pdb
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-33_ASimpleConsoleApplication\obj\Debug\Listing3-33_ASimpleConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-33_ASimpleConsoleApplication\obj\Debug\Listing3-33_ASimpleConsoleApplication.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-33_ASimpleConsoleApplication\obj\Debug\Listing3-33_ASimpleConsoleApplication.pdb
