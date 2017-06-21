@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing3-10_ValidateAZipCodeWithARegularExpression\bin\Debug\Listing3-10_ValidateAZipCodeWithARegularExpression.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-10_ValidateAZipCodeWithARegularExpression\bin\Debug\Listing3-10_ValidateAZipCodeWithARegularExpression.exe
+C:\Users\User\Source\Repos\Practice\Listing3-10_ValidateAZipCodeWithARegularExpression\bin\Debug\Listing3-10_ValidateAZipCodeWithARegularExpression.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-10_ValidateAZipCodeWithARegularExpression\obj\Debug\Listing3-10_ValidateAZipCodeWithARegularExpression.exe
+C:\Users\User\Source\Repos\Practice\Listing3-10_ValidateAZipCodeWithARegularExpression\obj\Debug\Listing3-10_ValidateAZipCodeWithARegularExpression.pdb

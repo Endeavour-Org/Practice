@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing3-11_CollapseMultipleSpacesWithRegex\bin\Debug\Listing3-11_CollapseMultipleSpacesWithRegex.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-11_CollapseMultipleSpacesWithRegex\bin\Debug\Listing3-11_CollapseMultipleSpacesWithRegex.exe
+C:\Users\User\Source\Repos\Practice\Listing3-11_CollapseMultipleSpacesWithRegex\bin\Debug\Listing3-11_CollapseMultipleSpacesWithRegex.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-11_CollapseMultipleSpacesWithRegex\obj\Debug\Listing3-11_CollapseMultipleSpacesWithRegex.exe
+C:\Users\User\Source\Repos\Practice\Listing3-11_CollapseMultipleSpacesWithRegex\obj\Debug\Listing3-11_CollapseMultipleSpacesWithRegex.pdb

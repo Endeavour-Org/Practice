@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing3-4_UsingParse\bin\Debug\Listing3-4_UsingParse.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-4_UsingParse\bin\Debug\Listing3-4_UsingParse.exe
+C:\Users\User\Source\Repos\Practice\Listing3-4_UsingParse\bin\Debug\Listing3-4_UsingParse.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-4_UsingParse\obj\Debug\Listing3-4_UsingParse.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing3-4_UsingParse\obj\Debug\Listing3-4_UsingParse.exe
+C:\Users\User\Source\Repos\Practice\Listing3-4_UsingParse\obj\Debug\Listing3-4_UsingParse.pdb

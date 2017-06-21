@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing3-8_UsingConvertToConvertFromADoubleToInt\bin\Debug\Listing3-8_UsingConvertToConvertFromADoubleToInt.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-8_UsingConvertToConvertFromADoubleToInt\bin\Debug\Listing3-8_UsingConvertToConvertFromADoubleToInt.exe
+C:\Users\User\Source\Repos\Practice\Listing3-8_UsingConvertToConvertFromADoubleToInt\bin\Debug\Listing3-8_UsingConvertToConvertFromADoubleToInt.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-8_UsingConvertToConvertFromADoubleToInt\obj\Debug\Listing3-8_UsingConvertToConvertFromADoubleToInt.exe
+C:\Users\User\Source\Repos\Practice\Listing3-8_UsingConvertToConvertFromADoubleToInt\obj\Debug\Listing3-8_UsingConvertToConvertFromADoubleToInt.pdb

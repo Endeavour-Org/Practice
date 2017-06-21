@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Practice\Listing3-18_ExportingAPublicKey\bin\Debug\Listing3-18_ExportingAPublicKey.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-18_ExportingAPublicKey\bin\Debug\Listing3-18_ExportingAPublicKey.exe
+C:\Users\User\Source\Repos\Practice\Listing3-18_ExportingAPublicKey\bin\Debug\Listing3-18_ExportingAPublicKey.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-18_ExportingAPublicKey\obj\Debug\Listing3-18_ExportingAPublicKey.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Practice\Listing3-18_ExportingAPublicKey\obj\Debug\Listing3-18_ExportingAPublicKey.exe
+C:\Users\User\Source\Repos\Practice\Listing3-18_ExportingAPublicKey\obj\Debug\Listing3-18_ExportingAPublicKey.pdb

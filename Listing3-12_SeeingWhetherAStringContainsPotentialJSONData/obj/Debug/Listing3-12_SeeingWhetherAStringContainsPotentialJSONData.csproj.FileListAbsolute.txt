@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData\bin\Debug\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData\bin\Debug\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData.exe
+C:\Users\User\Source\Repos\Practice\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData\bin\Debug\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData\obj\Debug\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData.exe
+C:\Users\User\Source\Repos\Practice\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData\obj\Debug\Listing3-12_SeeingWhetherAStringContainsPotentialJSONData.pdb

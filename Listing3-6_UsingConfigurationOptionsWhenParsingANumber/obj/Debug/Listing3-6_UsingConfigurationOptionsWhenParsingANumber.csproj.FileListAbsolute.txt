@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\Practice\Listing3-6_UsingConfigurationOptionsWhenParsingANumber\bin\Debug\Listing3-6_UsingConfigurationOptionsWhenParsingANumber.exe.config
+C:\Users\User\Source\Repos\Practice\Listing3-6_UsingConfigurationOptionsWhenParsingANumber\bin\Debug\Listing3-6_UsingConfigurationOptionsWhenParsingANumber.exe
+C:\Users\User\Source\Repos\Practice\Listing3-6_UsingConfigurationOptionsWhenParsingANumber\bin\Debug\Listing3-6_UsingConfigurationOptionsWhenParsingANumber.pdb
+C:\Users\User\Source\Repos\Practice\Listing3-6_UsingConfigurationOptionsWhenParsingANumber\obj\Debug\Listing3-6_UsingConfigurationOptionsWhenParsingANumber.exe
+C:\Users\User\Source\Repos\Practice\Listing3-6_UsingConfigurationOptionsWhenParsingANumber\obj\Debug\Listing3-6_UsingConfigurationOptionsWhenParsingANumber.pdb
