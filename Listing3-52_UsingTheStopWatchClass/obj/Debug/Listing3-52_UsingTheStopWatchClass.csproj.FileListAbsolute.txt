@@ -1,0 +1,6 @@
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-52_UsingTheStopWatchClass\bin\Debug\Listing3-52_UsingTheStopWatchClass.exe.config
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-52_UsingTheStopWatchClass\bin\Debug\Listing3-52_UsingTheStopWatchClass.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-52_UsingTheStopWatchClass\bin\Debug\Listing3-52_UsingTheStopWatchClass.pdb
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-52_UsingTheStopWatchClass\obj\Debug\Listing3-52_UsingTheStopWatchClass.csprojResolveAssemblyReference.cache
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-52_UsingTheStopWatchClass\obj\Debug\Listing3-52_UsingTheStopWatchClass.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-52_UsingTheStopWatchClass\obj\Debug\Listing3-52_UsingTheStopWatchClass.pdb

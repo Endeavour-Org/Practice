@@ -1,0 +1,5 @@
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-46_UsingTheTraceSourceClass\bin\Debug\Listing3-46_UsingTheTraceSourceClass.exe.config
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-46_UsingTheTraceSourceClass\bin\Debug\Listing3-46_UsingTheTraceSourceClass.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-46_UsingTheTraceSourceClass\bin\Debug\Listing3-46_UsingTheTraceSourceClass.pdb
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-46_UsingTheTraceSourceClass\obj\Debug\Listing3-46_UsingTheTraceSourceClass.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-46_UsingTheTraceSourceClass\obj\Debug\Listing3-46_UsingTheTraceSourceClass.pdb
