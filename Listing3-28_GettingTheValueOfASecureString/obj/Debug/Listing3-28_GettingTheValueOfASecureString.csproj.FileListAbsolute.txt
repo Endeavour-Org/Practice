@@ -1,0 +1,6 @@
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-28_GettingTheValueOfASecureString\bin\Debug\Listing3-28_GettingTheValueOfASecureString.exe.config
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-28_GettingTheValueOfASecureString\bin\Debug\Listing3-28_GettingTheValueOfASecureString.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-28_GettingTheValueOfASecureString\bin\Debug\Listing3-28_GettingTheValueOfASecureString.pdb
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-28_GettingTheValueOfASecureString\obj\Debug\Listing3-28_GettingTheValueOfASecureString.csprojResolveAssemblyReference.cache
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-28_GettingTheValueOfASecureString\obj\Debug\Listing3-28_GettingTheValueOfASecureString.exe
+C:\Users\Whitney Lampkin\Source\Repos\Practice2\Listing3-28_GettingTheValueOfASecureString\obj\Debug\Listing3-28_GettingTheValueOfASecureString.pdb
